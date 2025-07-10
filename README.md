@@ -34,3 +34,4 @@ Scanner – for reading data from the file
 IOException – for handling file-related errors
 
 *OUTPUT* :
+<img width="1830" height="192" alt="Image" src="https://github.com/user-attachments/assets/70ef6e12-830f-4e63-b6e0-e737c4ee58f2" />
